@@ -1,3 +1,5 @@
+server:
+  port: 9529
 eureka:
   client:
     service-url:
@@ -5,11 +7,9 @@ eureka:
 spring:
   rabbitmq:
     host: localhost
-    port: 5672
     username: guest
     password: guest
-server:
-	port: 9529
+    port: 5672
 management:
   endpoints:
     web:
