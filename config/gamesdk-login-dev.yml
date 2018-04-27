@@ -1,6 +1,12 @@
 server:
-  port: 9528
+	port: 9528
 eureka:
-  client:
-    service-url:
-      defaultZone: http://localhost:9527/eureka/
+	client:
+		service-url:
+			defaultZone: http://localhost:9527/eureka/
+spring:
+	rabbitmq:
+	host: localhost
+	username: guest
+	password: guest
+	port: 5672
