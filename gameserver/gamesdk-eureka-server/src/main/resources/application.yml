@@ -1,0 +1,23 @@
+server:
+  port: 9527
+#eureka:
+#  instance:
+#    hostname: bstgamesdk
+#  client:
+#    register-with-eureka: false
+#    fetch-registry: false
+#    service-url:
+#      defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/
+#      defaultZone: http://192.168.0.233:9527/eureka/
+eureka:
+  instance:
+    prefer-ip-address: true
+  client:
+    register-with-eureka: false
+    fetch-registry: false
+    region: fujian
+    use-dns-for-fetching-service-urls: true
+    eureka-server-d-n-s-name: example.com
+    eureka-server-u-r-l-context: eureka
+    eureka-server-port: 9527
+    prefer-same-zone-eureka: true

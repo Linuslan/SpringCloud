@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: gamesdk-register
+  cloud:
+    config:
+      label: master
+      profile: dev
+      uri: http://localhost:9554/
+      discovery:
+        enabled: true
+        service-id: GAMESDK-CONFIG-SERVER

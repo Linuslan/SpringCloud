@@ -1,0 +1,38 @@
+server:
+  port: 9554
+spring:
+  cloud:
+    config:
+      enabled: true
+      server:
+        #svn:
+        #  uri:
+        #  username:
+        #  password:
+        #default-label: config
+        git:
+          uri: https://github.com/Linuslan/SpringCloud/
+          search-paths: config
+          basedir: config-repo/config-repo
+  application:
+    name: gamesdk-config-server
+#eureka:
+#  client:
+#    service-url:
+#      defaultZone: http://localhost:9527/eureka/
+eureka:
+  instance:
+    prefer-ip-address: true
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+    region: fujian
+    use-dns-for-fetching-service-urls: true
+    eureka-server-d-n-s-name: example.com
+    eureka-server-u-r-l-context: eureka
+    eureka-server-port: 9527
+management:
+  endpoints:
+    web:
+      exposure:
+        include: bus-refresh

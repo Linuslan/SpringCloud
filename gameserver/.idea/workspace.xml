@@ -1,0 +1,1281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" readonly="true" id="e1842535-d18e-427f-9ee5-a88d1e75dc64" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/gamesdk-eureka-server/target/" />
+    <ignored path="$PROJECT_DIR$/gamesdk-zuul/target/" />
+    <ignored path="$PROJECT_DIR$/gamesdk-login/target/" />
+    <ignored path="$PROJECT_DIR$/gamesdk-pay/target/" />
+    <ignored path="$PROJECT_DIR$/gamesdk-config-server/target/" />
+    <ignored path="$PROJECT_DIR$/gamesdk-register/target/" />
+    <ignored path="$PROJECT_DIR$/mybatistest/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="bootstrap.yml" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/gamesdk-login/src/main/resources/bootstrap.yml">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="178">
+                  <caret line="26" column="30" lean-forward="true" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="ISysCodeServiceImpl.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/gamesdk-login/src/main/java/com/bst/gamesdk/service/ISysCodeServiceImpl.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="294">
+                  <caret line="14" selection-start-line="14" selection-end-line="14" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                    <element signature="e#206#207#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="InvocableHandlerMethod.class" pinned="false" current-in-tab="false">
+            <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-web/5.0.5.RELEASE/spring-web-5.0.5.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="166">
+                  <caret line="127" column="66" lean-forward="true" selection-start-line="127" selection-start-column="66" selection-end-line="127" selection-end-column="66" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="SysCodeMapper.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/gamesdk-login/src/main/java/com/bst/gamesdk/mapper/SysCodeMapper.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="105">
+                  <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="ISysCodeService.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/gamesdk-login/src/main/java/com/bst/gamesdk/service/ISysCodeService.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="105">
+                  <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="LoginController.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/gamesdk-login/src/main/java/com/bst/gamesdk/controller/LoginController.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="357">
+                  <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="SysCode.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/gamesdk-login/src/main/java/com/bst/gamesdk/model/SysCode.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="147">
+                  <caret line="7" selection-start-line="7" selection-end-line="7" />
+                  <folding>
+                    <element signature="e#529#530#0" expanded="true" />
+                    <element signature="e#554#555#0" expanded="true" />
+                    <element signature="e#588#589#0" expanded="true" />
+                    <element signature="e#616#617#0" expanded="true" />
+                    <element signature="e#650#651#0" expanded="true" />
+                    <element signature="e#680#681#0" expanded="true" />
+                    <element signature="e#726#727#0" expanded="true" />
+                    <element signature="e#764#765#0" expanded="true" />
+                    <element signature="e#800#801#0" expanded="true" />
+                    <element signature="e#832#833#0" expanded="true" />
+                    <element signature="e#882#883#0" expanded="true" />
+                    <element signature="e#924#925#0" expanded="true" />
+                    <element signature="e#960#961#0" expanded="true" />
+                    <element signature="e#992#993#0" expanded="true" />
+                    <element signature="e#1042#1043#0" expanded="true" />
+                    <element signature="e#1084#1085#0" expanded="true" />
+                    <element signature="e#1119#1120#0" expanded="true" />
+                    <element signature="e#1150#1151#0" expanded="true" />
+                    <element signature="e#1198#1199#0" expanded="true" />
+                    <element signature="e#1238#1239#0" expanded="true" />
+                    <element signature="e#1275#1276#0" expanded="true" />
+                    <element signature="e#1308#1309#0" expanded="true" />
+                    <element signature="e#1360#1361#0" expanded="true" />
+                    <element signature="e#1404#1405#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="SysCodeMapper.xml" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/gamesdk-login/src/main/resources/mapping/SysCodeMapper.xml">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="294">
+                  <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="GamesdkLoginApplication.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/gamesdk-login/src/main/java/com/bst/gamesdk/gamesdklogin/GamesdkLoginApplication.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="231">
+                  <caret line="22" column="43" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="SysCode.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/gamesdk-login/src/main/java/com/bst/gamesdk/model/SysCode.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="273">
+                  <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+                  <folding>
+                    <element signature="e#529#530#0" expanded="true" />
+                    <element signature="e#554#555#0" expanded="true" />
+                    <element signature="e#588#589#0" expanded="true" />
+                    <element signature="e#616#617#0" expanded="true" />
+                    <element signature="e#650#651#0" expanded="true" />
+                    <element signature="e#680#681#0" expanded="true" />
+                    <element signature="e#726#727#0" expanded="true" />
+                    <element signature="e#764#765#0" expanded="true" />
+                    <element signature="e#800#801#0" expanded="true" />
+                    <element signature="e#832#833#0" expanded="true" />
+                    <element signature="e#882#883#0" expanded="true" />
+                    <element signature="e#924#925#0" expanded="true" />
+                    <element signature="e#960#961#0" expanded="true" />
+                    <element signature="e#992#993#0" expanded="true" />
+                    <element signature="e#1042#1043#0" expanded="true" />
+                    <element signature="e#1084#1085#0" expanded="true" />
+                    <element signature="e#1119#1120#0" expanded="true" />
+                    <element signature="e#1150#1151#0" expanded="true" />
+                    <element signature="e#1198#1199#0" expanded="true" />
+                    <element signature="e#1238#1239#0" expanded="true" />
+                    <element signature="e#1275#1276#0" expanded="true" />
+                    <element signature="e#1308#1309#0" expanded="true" />
+                    <element signature="e#1360#1361#0" expanded="true" />
+                    <element signature="e#1404#1405#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>lientConfigServiceBootstrapConfiguration</find>
+      <find>95</find>
+      <find>9554</find>
+      <find />
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/gamesdk-eureka-server/src/main/java/com/bst/gamesdk/gamesdkeurekaserver/GamesdkEurekaServerApplication.java" />
+        <option value="$PROJECT_DIR$/gamesdk-login/src/main/java/com/bst/gamesdk/service/ILoginService.java" />
+        <option value="$PROJECT_DIR$/gamesdk-pay/src/main/java/com/bst/gamesdk/gamesdkpay/GamesdkPayApplication.java" />
+        <option value="$PROJECT_DIR$/gamesdk-pay/src/main/java/com/bst/gamesdk/service/IPayService.java" />
+        <option value="$PROJECT_DIR$/gamesdk-pay/src/main/java/com/bst/gamesdk/service/IPayServiceImpl.java" />
+        <option value="$PROJECT_DIR$/gamesdk-pay/src/main/java/com/bst/gamesdk/controller/PayController.java" />
+        <option value="$PROJECT_DIR$/gamesdk-zuul/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/gamesdk-config-server/src/main/java/com/bst/gamesdk/gamesdkconfigserver/GamesdkConfigServerApplication.java" />
+        <option value="$PROJECT_DIR$/gamesdk-login/src/main/java/com/bst/gamesdk/service/ILoginServiceImpl.java" />
+        <option value="$PROJECT_DIR$/gamesdk-login/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/gamesdk-login/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/gamesdk-config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/gamesdk-zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/gamesdk-register/src/main/java/com/bst/gamesdk/gamesdkregister/GamesdkRegisterApplication.java" />
+        <option value="$PROJECT_DIR$/gamesdk-register/pom.xml" />
+        <option value="$PROJECT_DIR$/gamesdk-pay/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/gamesdk-pay/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/gamesdk-register/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/gamesdk-eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/gamesdk-zuul/src/main/java/com/bst/gamesdk/gamesdkzuul/GamesdkZuulApplication.java" />
+        <option value="$PROJECT_DIR$/gamesdk-zuul/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/gamesdk-eureka-server/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/gamesdk-config-server/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/gamesdk-pay/pom.xml" />
+        <option value="$PROJECT_DIR$/gamesdk-login/pom.xml" />
+        <option value="$PROJECT_DIR$/gamesdk-login/src/main/java/com/bst/gamesdk/test/MybatisTest.java" />
+        <option value="$PROJECT_DIR$/gamesdk-login/src/main/java/com/bst/gamesdk/service/ISysCodeService.java" />
+        <option value="$PROJECT_DIR$/gamesdk-login/src/main/java/com/bst/gamesdk/controller/LoginController.java" />
+        <option value="$PROJECT_DIR$/gamesdk-login/src/main/java/com/bst/gamesdk/gamesdklogin/GamesdkLoginApplication.java" />
+        <option value="$PROJECT_DIR$/gamesdk-login/src/main/java/com/bst/gamesdk/model/Dictionary.java" />
+        <option value="$PROJECT_DIR$/gamesdk-login/src/main/java/com/bst/gamesdk/mapper/DictionaryMapper.java" />
+        <option value="$PROJECT_DIR$/gamesdk-login/src/main/resources/mapping/DepartmentMapper.xml" />
+        <option value="$PROJECT_DIR$/gamesdk-login/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/gamesdk-login/src/main/java/com/bst/gamesdk/model/SysCode.java" />
+        <option value="$PROJECT_DIR$/gamesdk-login/src/main/java/com/bst/gamesdk/mapper/SysCodeMapper.java" />
+        <option value="$PROJECT_DIR$/gamesdk-login/src/main/java/com/bst/gamesdk/service/ISysCodeServiceImpl.java" />
+        <option value="$PROJECT_DIR$/gamesdk-login/src/main/resources/mapping/SysCodeMapper.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="144" />
+    <option name="y" value="14" />
+    <option name="width" value="1531" />
+    <option name="height" value="1021" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="gamesdk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gamesdk" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gamesdk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gamesdk" type="462c0819:PsiDirectoryNode" />
+              <item name="gamesdk-config-server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gamesdk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gamesdk" type="462c0819:PsiDirectoryNode" />
+              <item name="gamesdk-config-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gamesdk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gamesdk" type="462c0819:PsiDirectoryNode" />
+              <item name="gamesdk-config-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gamesdk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gamesdk" type="462c0819:PsiDirectoryNode" />
+              <item name="gamesdk-config-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gamesdk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gamesdk" type="462c0819:PsiDirectoryNode" />
+              <item name="gamesdk-eureka-server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gamesdk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gamesdk" type="462c0819:PsiDirectoryNode" />
+              <item name="gamesdk-eureka-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gamesdk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gamesdk" type="462c0819:PsiDirectoryNode" />
+              <item name="gamesdk-eureka-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gamesdk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gamesdk" type="462c0819:PsiDirectoryNode" />
+              <item name="gamesdk-eureka-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gamesdk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gamesdk" type="462c0819:PsiDirectoryNode" />
+              <item name="gamesdk-eureka-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="gamesdkeurekaserver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gamesdk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gamesdk" type="462c0819:PsiDirectoryNode" />
+              <item name="gamesdk-eureka-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gamesdk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gamesdk" type="462c0819:PsiDirectoryNode" />
+              <item name="gamesdk-login" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gamesdk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gamesdk" type="462c0819:PsiDirectoryNode" />
+              <item name="gamesdk-login" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gamesdk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gamesdk" type="462c0819:PsiDirectoryNode" />
+              <item name="gamesdk-login" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gamesdk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gamesdk" type="462c0819:PsiDirectoryNode" />
+              <item name="gamesdk-login" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gamesdk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gamesdk" type="462c0819:PsiDirectoryNode" />
+              <item name="gamesdk-login" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="gamesdk" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gamesdk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gamesdk" type="462c0819:PsiDirectoryNode" />
+              <item name="gamesdk-login" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="gamesdk" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gamesdk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gamesdk" type="462c0819:PsiDirectoryNode" />
+              <item name="gamesdk-login" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="gamesdk" type="462c0819:PsiDirectoryNode" />
+              <item name="gamesdklogin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gamesdk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gamesdk" type="462c0819:PsiDirectoryNode" />
+              <item name="gamesdk-login" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="gamesdk" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gamesdk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gamesdk" type="462c0819:PsiDirectoryNode" />
+              <item name="gamesdk-login" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="gamesdk" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gamesdk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gamesdk" type="462c0819:PsiDirectoryNode" />
+              <item name="gamesdk-login" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="gamesdk" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gamesdk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gamesdk" type="462c0819:PsiDirectoryNode" />
+              <item name="gamesdk-login" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gamesdk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gamesdk" type="462c0819:PsiDirectoryNode" />
+              <item name="gamesdk-login" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mapping" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gamesdk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gamesdk" type="462c0819:PsiDirectoryNode" />
+              <item name="gamesdk-login" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gamesdk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gamesdk" type="462c0819:PsiDirectoryNode" />
+              <item name="gamesdk-pay" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gamesdk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gamesdk" type="462c0819:PsiDirectoryNode" />
+              <item name="gamesdk-pay" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gamesdk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gamesdk" type="462c0819:PsiDirectoryNode" />
+              <item name="gamesdk-pay" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gamesdk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gamesdk" type="462c0819:PsiDirectoryNode" />
+              <item name="gamesdk-pay" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gamesdk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gamesdk" type="462c0819:PsiDirectoryNode" />
+              <item name="gamesdk-pay" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="gamesdk" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gamesdk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gamesdk" type="462c0819:PsiDirectoryNode" />
+              <item name="gamesdk-pay" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="gamesdk" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gamesdk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gamesdk" type="462c0819:PsiDirectoryNode" />
+              <item name="gamesdk-pay" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="gamesdk" type="462c0819:PsiDirectoryNode" />
+              <item name="gamesdkpay" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gamesdk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gamesdk" type="462c0819:PsiDirectoryNode" />
+              <item name="gamesdk-pay" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="gamesdk" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gamesdk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gamesdk" type="462c0819:PsiDirectoryNode" />
+              <item name="gamesdk-pay" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gamesdk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gamesdk" type="462c0819:PsiDirectoryNode" />
+              <item name="gamesdk-register" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gamesdk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gamesdk" type="462c0819:PsiDirectoryNode" />
+              <item name="gamesdk-register" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gamesdk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gamesdk" type="462c0819:PsiDirectoryNode" />
+              <item name="gamesdk-register" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gamesdk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gamesdk" type="462c0819:PsiDirectoryNode" />
+              <item name="gamesdk-register" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gamesdk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gamesdk" type="462c0819:PsiDirectoryNode" />
+              <item name="gamesdk-register" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="gamesdkregister" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gamesdk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gamesdk" type="462c0819:PsiDirectoryNode" />
+              <item name="gamesdk-register" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gamesdk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gamesdk" type="462c0819:PsiDirectoryNode" />
+              <item name="gamesdk-zuul" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gamesdk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gamesdk" type="462c0819:PsiDirectoryNode" />
+              <item name="gamesdk-zuul" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gamesdk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gamesdk" type="462c0819:PsiDirectoryNode" />
+              <item name="gamesdk-zuul" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gamesdk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gamesdk" type="462c0819:PsiDirectoryNode" />
+              <item name="gamesdk-zuul" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gamesdk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gamesdk" type="462c0819:PsiDirectoryNode" />
+              <item name="gamesdk-zuul" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="gamesdkzuul" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gamesdk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gamesdk" type="462c0819:PsiDirectoryNode" />
+              <item name="gamesdk-zuul" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gamesdk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gamesdk" type="462c0819:PsiDirectoryNode" />
+              <item name="mybatistest" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SearchEverywhereHistoryKey" value="EndpointUtils&#9;FILE&#9;jar://C:/Users/LinusLan/.m2/repository/com/netflix/eureka/eureka-client/1.8.7/eureka-client-1.8.7-sources.jar!/com/netflix/discovery/endpoint/EndpointUtils.java&#10;getServiceUrlsFromDNS&#9;PSI&#9;JAVA://com.netflix.discovery.endpoint.EndpointUtils#getServiceUrlsFromDNS&#10;getDiscoveryService&#9;PSI&#9;JAVA://com.netflix.discovery.endpoint.EndpointUtils#getDiscoveryServiceUrls&#10;ConfigClusterResolver&#9;PSI&#9;JAVA://com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver&#10;lientConfigServiceBootstrapConfiguration&#9;PSI&#9;JAVA://org.springframework.cloud.config.client.DiscoveryClientConfigServiceBootstrapConfiguration" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\LinusLan\IdeaWorkSpace\gamesdk\gamesdk-login\src\main\resources\mapping" />
+      <recent name="G:\LinusLan\IdeaWorkSpace\gamesdk\gamesdk-login\src\main\java\com\bst\gamesdk\mapper" />
+      <recent name="G:\LinusLan\IdeaWorkSpace\gamesdk\gamesdk-login\src\main\java\com\bst\gamesdk\model" />
+      <recent name="G:\LinusLan\IdeaWorkSpace\gamesdk\gamesdk-login\src\main\java\com\bst\gamesdk\controller" />
+      <recent name="G:\LinusLan\IdeaWorkSpace\gamesdk\gamesdk-login\src\main\java\com\bst\gamesdk\service" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.GamesdkLoginApplication">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="GamesdkConfigServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gamesdk-config-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bst.gamesdk.gamesdkconfigserver.GamesdkConfigServerApplication" />
+    </configuration>
+    <configuration name="GamesdkEurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gamesdk-eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bst.gamesdk.gamesdkeurekaserver.GamesdkEurekaServerApplication" />
+    </configuration>
+    <configuration name="GamesdkLoginApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gamesdk-login" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bst.gamesdk.gamesdklogin.GamesdkLoginApplication" />
+    </configuration>
+    <configuration name="GamesdkPayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gamesdk-pay" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bst.gamesdk.gamesdkpay.GamesdkPayApplication" />
+    </configuration>
+    <configuration name="GamesdkRegisterApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gamesdk-register" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bst.gamesdk.gamesdkregister.GamesdkRegisterApplication" />
+    </configuration>
+    <configuration name="GamesdkZuulApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gamesdk-zuul" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bst.gamesdk.gamesdkzuul.GamesdkZuulApplication" />
+    </configuration>
+    <configuration name="MybatistestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mybatistest" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.test.mybatis.mybatistest.MybatistestApplication" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.GamesdkEurekaServerApplication" />
+      <item itemvalue="Spring Boot.GamesdkZuulApplication" />
+      <item itemvalue="Spring Boot.GamesdkLoginApplication" />
+      <item itemvalue="Spring Boot.GamesdkPayApplication" />
+      <item itemvalue="Spring Boot.GamesdkConfigServerApplication" />
+      <item itemvalue="Spring Boot.GamesdkRegisterApplication" />
+      <item itemvalue="Spring Boot.MybatistestApplication" />
+    </list>
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\LinusLan\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e1842535-d18e-427f-9ee5-a88d1e75dc64" name="Default" comment="" />
+      <created>1524556342762</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1524556342762</updated>
+      <workItem from="1524556347184" duration="9606000" />
+      <workItem from="1524627202051" duration="9886000" />
+      <workItem from="1524644851644" duration="5974000" />
+      <workItem from="1524651900980" duration="4358000" />
+      <workItem from="1524705979300" duration="9783000" />
+      <workItem from="1524746173748" duration="7012000" />
+      <workItem from="1524794588789" duration="20745000" />
+      <workItem from="1524878802748" duration="17973000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="85337000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5008736" side_tool="true" weight="0.54464287" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.3593477" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32995737" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.30743617" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="Java Enterprise" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49912637" visible="true" weight="0.30077693" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22228146" />
+      <window_info anchor="right" id="Bean Validation" order="3" weight="0.32995737" />
+      <window_info id="Web" order="2" side_tool="true" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.m2/repository/com/netflix/eureka/eureka-client/1.8.7/eureka-client-1.8.7-sources.jar!/com/netflix/discovery/endpoint/EndpointUtils.java</url>
+          <line>307</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.m2/repository/com/netflix/eureka/eureka-client/1.8.7/eureka-client-1.8.7-sources.jar!/com/netflix/discovery/endpoint/EndpointUtils.java</url>
+          <line>98</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.m2/repository/com/netflix/eureka/eureka-client/1.8.7/eureka-client-1.8.7-sources.jar!/com/netflix/discovery/endpoint/EndpointUtils.java</url>
+          <line>158</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.m2/repository/com/netflix/eureka/eureka-client/1.8.7/eureka-client-1.8.7-sources.jar!/com/netflix/discovery/endpoint/EndpointUtils.java</url>
+          <line>138</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.m2/repository/com/netflix/eureka/eureka-client/1.8.7/eureka-client-1.8.7-sources.jar!/com/netflix/discovery/endpoint/EndpointUtils.java</url>
+          <line>265</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/gamesdk-login/src/main/java/com/bst/gamesdk/controller/LoginController.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/gamesdk-login/src/main/java/com/bst/gamesdk/service/ISysCodeServiceImpl.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="12" />
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$USER_HOME$/.m2/repository/com/netflix/eureka/eureka-client/1.8.7/eureka-client-1.8.7.jar!/com/netflix/discovery/endpoint/EndpointUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="33" column="31" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gamesdk-eureka-server/src/main/java/com/bst/gamesdk/gamesdkeurekaserver/GamesdkEurekaServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/cloud/spring-cloud-netflix-eureka-client/2.0.0.M8/spring-cloud-netflix-eureka-client-2.0.0.M8.jar!/org/springframework/cloud/netflix/eureka/EurekaClientAutoConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/cloud/spring-cloud-context/2.0.0.M9/spring-cloud-context-2.0.0.M9.jar!/org/springframework/cloud/context/scope/GenericScope.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="134" selection-start-line="134" selection-end-line="134" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-aop/5.0.5.RELEASE/spring-aop-5.0.5.RELEASE.jar!/org/springframework/aop/framework/JdkDynamicAopProxy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="137" selection-start-line="137" selection-end-line="137" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/cloud/spring-cloud-netflix-eureka-server/2.0.0.M8/spring-cloud-netflix-eureka-server-2.0.0.M8.jar!/org/springframework/cloud/netflix/eureka/server/EurekaServerAutoConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-core/5.0.5.RELEASE/spring-core-5.0.5.RELEASE.jar!/org/springframework/cglib/proxy/MethodProxy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="122" selection-start-line="122" selection-end-line="122" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-beans/5.0.5.RELEASE/spring-beans-5.0.5.RELEASE.jar!/org/springframework/beans/factory/support/SimpleInstantiationStrategy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="113" selection-start-line="113" selection-end-line="113" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-beans/5.0.5.RELEASE/spring-beans-5.0.5.RELEASE.jar!/org/springframework/beans/factory/support/DefaultSingletonBeanRegistry.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="144" selection-start-line="144" selection-end-line="144" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-beans/5.0.5.RELEASE/spring-beans-5.0.5.RELEASE.jar!/org/springframework/beans/factory/support/AbstractBeanFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="230" selection-start-line="230" selection-end-line="230" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-beans/5.0.5.RELEASE/spring-beans-5.0.5.RELEASE.jar!/org/springframework/beans/factory/support/DefaultListableBeanFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="923" selection-start-line="923" selection-end-line="923" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-beans/5.0.5.RELEASE/spring-beans-5.0.5.RELEASE.jar!/org/springframework/beans/factory/annotation/AutowiredAnnotationBeanPostProcessor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="254" selection-start-line="254" selection-end-line="254" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-beans/5.0.5.RELEASE/spring-beans-5.0.5.RELEASE.jar!/org/springframework/beans/factory/support/ConstructorResolver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="368" selection-start-line="368" selection-end-line="368" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/LinusLan/Software/install/jdk1.8.0_121/src.zip!/javax/naming/directory/InitialDirContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="141" selection-start-line="141" selection-end-line="141" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/LinusLan/Software/install/jdk1.8.0_121/jre/lib/rt.jar!/com/sun/jndi/toolkit/ctx/PartialCompositeDirContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="73" selection-start-line="73" selection-end-line="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/LinusLan/Software/install/jdk1.8.0_121/jre/lib/rt.jar!/com/sun/jndi/dns/DnsContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="294" column="38" lean-forward="true" selection-start-line="294" selection-start-column="38" selection-end-line="294" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/com/netflix/eureka/eureka-client/1.8.7/eureka-client-1.8.7-sources.jar!/com/netflix/discovery/DiscoveryClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="502" selection-start-line="502" selection-end-line="502" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-beans/5.0.5.RELEASE/spring-beans-5.0.5.RELEASE.jar!/org/springframework/beans/factory/annotation/InitDestroyAnnotationBeanPostProcessor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="75" selection-start-line="75" selection-end-line="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-beans/5.0.5.RELEASE/spring-beans-5.0.5.RELEASE.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="371" column="49" selection-start-line="371" selection-start-column="49" selection-end-line="371" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/com/netflix/eureka/eureka-core/1.8.7/eureka-core-1.8.7.jar!/com/netflix/eureka/cluster/PeerEurekaNodes.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="903">
+          <caret line="89" selection-start-line="89" selection-end-line="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/com/netflix/eureka/eureka-client/1.8.7/eureka-client-1.8.7-sources.jar!/com/netflix/discovery/endpoint/DnsResolver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1207">
+          <caret line="115" column="5" lean-forward="true" selection-start-line="115" selection-start-column="5" selection-end-line="115" selection-end-column="5" />
+          <folding>
+            <element signature="e#4865#4873#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/com/netflix/eureka/eureka-client/1.8.7/eureka-client-1.8.7-sources.jar!/com/netflix/discovery/shared/resolver/aws/DnsTxtRecordClusterResolver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="140" column="72" lean-forward="true" selection-start-line="140" selection-start-column="72" selection-end-line="140" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/com/netflix/eureka/eureka-client/1.8.7/eureka-client-1.8.7-sources.jar!/com/netflix/discovery/endpoint/EndpointUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="314" column="42" lean-forward="true" selection-start-line="314" selection-start-column="42" selection-end-line="314" selection-end-column="42" />
+          <folding>
+            <element signature="e#4284#4292#0" expanded="true" />
+            <element signature="e#5846#5854#0" expanded="true" />
+            <element signature="e#6011#6019#0" expanded="true" />
+            <element signature="e#13782#13790#0" expanded="true" />
+            <element signature="e#13919#13941#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gamesdk-config-server/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gamesdk-zuul/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gamesdk-pay/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="45" column="21" selection-start-line="45" selection-start-column="21" selection-end-line="45" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gamesdk-pay/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatistest/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="44" column="21" selection-start-line="44" selection-start-column="21" selection-end-line="44" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gamesdk-login/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="78" column="21" selection-start-line="78" selection-start-column="21" selection-end-line="78" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gamesdk-login/src/main/java/com/bst/gamesdk/test/MybatisTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" selection-start-line="5" selection-end-line="13" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gamesdk-eureka-server/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gamesdk-login/src/main/java/com/bst/gamesdk/gamesdklogin/GamesdkLoginApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="22" column="43" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gamesdk-pay/src/main/java/com/bst/gamesdk/service/IPayServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gamesdk-pay/src/main/java/com/bst/gamesdk/service/IPayService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/com/netflix/eureka/eureka-client/1.8.8/eureka-client-1.8.8.jar!/com/netflix/discovery/DiscoveryClient.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="257" column="76" lean-forward="true" selection-start-line="257" selection-start-column="76" selection-end-line="257" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/com/netflix/eureka/eureka-client/1.8.8/eureka-client-1.8.8.jar!/com/netflix/discovery/shared/transport/EurekaHttpClients.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/com/netflix/eureka/eureka-client/1.8.8/eureka-client-1.8.8.jar!/com/netflix/discovery/shared/resolver/aws/ZoneAffinityClusterResolver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/com/netflix/eureka/eureka-client/1.8.8/eureka-client-1.8.8.jar!/com/netflix/discovery/shared/resolver/aws/ConfigClusterResolver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/com/netflix/eureka/eureka-client/1.8.8/eureka-client-1.8.8.jar!/com/netflix/discovery/shared/resolver/aws/DnsTxtRecordClusterResolver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-webmvc/5.0.5.RELEASE/spring-webmvc-5.0.5.RELEASE.jar!/org/springframework/web/servlet/mvc/method/annotation/RequestMappingHandlerAdapter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="572" column="9" lean-forward="true" selection-start-line="572" selection-start-column="9" selection-end-line="572" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/mybatis/mybatis/3.4.6/mybatis-3.4.6.jar!/org/apache/ibatis/annotations/Select.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gamesdk-login/src/main/java/com/bst/gamesdk/mapper/DictionaryMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gamesdk-login/src/main/java/com/bst/gamesdk/model/Dictionary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gamesdk-login/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="26" column="30" lean-forward="true" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gamesdk-login/src/main/java/com/bst/gamesdk/mapper/SysCodeMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gamesdk-login/src/main/java/com/bst/gamesdk/service/ISysCodeService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gamesdk-login/src/main/java/com/bst/gamesdk/controller/LoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gamesdk-login/src/main/java/com/bst/gamesdk/service/ISysCodeServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#206#207#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-web/5.0.5.RELEASE/spring-web-5.0.5.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="127" column="66" lean-forward="true" selection-start-line="127" selection-start-column="66" selection-end-line="127" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gamesdk-login/src/main/java/com/bst/gamesdk/model/SysCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#529#530#0" expanded="true" />
+            <element signature="e#554#555#0" expanded="true" />
+            <element signature="e#588#589#0" expanded="true" />
+            <element signature="e#616#617#0" expanded="true" />
+            <element signature="e#650#651#0" expanded="true" />
+            <element signature="e#680#681#0" expanded="true" />
+            <element signature="e#726#727#0" expanded="true" />
+            <element signature="e#764#765#0" expanded="true" />
+            <element signature="e#800#801#0" expanded="true" />
+            <element signature="e#832#833#0" expanded="true" />
+            <element signature="e#882#883#0" expanded="true" />
+            <element signature="e#924#925#0" expanded="true" />
+            <element signature="e#960#961#0" expanded="true" />
+            <element signature="e#992#993#0" expanded="true" />
+            <element signature="e#1042#1043#0" expanded="true" />
+            <element signature="e#1084#1085#0" expanded="true" />
+            <element signature="e#1119#1120#0" expanded="true" />
+            <element signature="e#1150#1151#0" expanded="true" />
+            <element signature="e#1198#1199#0" expanded="true" />
+            <element signature="e#1238#1239#0" expanded="true" />
+            <element signature="e#1275#1276#0" expanded="true" />
+            <element signature="e#1308#1309#0" expanded="true" />
+            <element signature="e#1360#1361#0" expanded="true" />
+            <element signature="e#1404#1405#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gamesdk-login/src/main/resources/mapping/SysCodeMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

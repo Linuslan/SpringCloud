@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/gamesdk-eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/gamesdk-zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/gamesdk-pay/pom.xml" />
+        <option value="$PROJECT_DIR$/gamesdk-config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/gamesdk-login/pom.xml" />
+        <option value="$PROJECT_DIR$/gamesdk-register/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatistest/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

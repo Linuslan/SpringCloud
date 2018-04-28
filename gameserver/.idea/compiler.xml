@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="gamesdk" />
+        <module name="gamesdk-config-server" />
+        <module name="gamesdk-eureka-server" />
+        <module name="gamesdk-login" />
+        <module name="gamesdk-pay" />
+        <module name="gamesdk-register" />
+        <module name="gamesdk-zuul" />
+        <module name="mybatistest" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="gamesdk-login (1)" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

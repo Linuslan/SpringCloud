@@ -1,0 +1,32 @@
+spring:
+  application:
+    name: gamesdk-zuul
+  cloud:
+    config:
+#      label: master
+      profile: dev
+      discovery:
+        service-id: gamesdk-config-server
+        enabled: true
+      #uri: http://localhost:9554/
+      #discovery:
+      #  enabled: true
+      #  service-id: GAMESDK-CONFIG-SERVER
+#eureka:
+#  client:
+#    service-url:
+#      defaultZone: http://localhost:9527/eureka/
+#eureka:
+#  client:
+#    eureka-service-url-poll-interval-seconds: 5
+eureka:
+  instance:
+    prefer-ip-address: true
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+    region: fujian
+    use-dns-for-fetching-service-urls: true
+    eureka-server-d-n-s-name: example.com
+    eureka-server-u-r-l-context: eureka
+    eureka-server-port: 9527

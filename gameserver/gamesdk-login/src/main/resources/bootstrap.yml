@@ -1,0 +1,45 @@
+spring:
+  application:
+    name: gamesdk-login
+  cloud:
+    config:
+      profile: dev
+      discovery:
+        service-id: gamesdk-config-server
+        enabled: true
+      name: gamesdk-login
+      label: master
+  datasource:
+    data: mysql
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://112.74.129.86:53307/api_test?useUnicode=true&characterEncoding=UTF-8&zeroDateTimeBehavior=convertToNull&autoReconnect=true
+    username: root
+    password: 123456
+  jpa:
+    show-sql: true
+      #uri: http://localhost:9554/
+      #discovery:
+      #  enabled: true
+      #  service-id: GAMESDK-CONFIG-SERVER
+#eureka:
+#  client:
+#    service-url:
+#      defaultZone: http://localhost:9527/eureka/
+#eureka:
+#  client:
+#    eureka-service-url-poll-interval-seconds: 5
+eureka:
+  instance:
+    prefer-ip-address: true
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+    region: fujian
+    use-dns-for-fetching-service-urls: true
+    eureka-server-d-n-s-name: example.com
+    eureka-server-u-r-l-context: eureka
+    eureka-server-port: 9527
+mybatis:
+  mapper-locations: classpath:mapping/*.xml
+  type-aliases-package: com.bst.gamesdk.model
+
