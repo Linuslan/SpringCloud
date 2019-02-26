@@ -1,1 +1,2 @@
-foo: abcdefg111112
+server.port=9011
+spring.application.name=eureka-client
